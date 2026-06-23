@@ -24,3 +24,10 @@ To understand the fundamentals of chatbot development, decision-making logic, an
 ## Internship
 
 DecodeLabs Artificial Intelligence Internship – Project 1
+## Output Screenshot
+
+The chatbot was successfully tested and executed.
+
+Output Screenshot:
+
+* chatbot_output.png
